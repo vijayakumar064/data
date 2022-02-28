@@ -1,9 +1,9 @@
 {
   "mobiles": [
-    { "id": "1", "title": "Samsung", "releaseYear": "1977" ,price:12,000},
-    { "id": "2", "title": "Blackberry", "releaseYear": "1985",price:12,000 },
-    { "id": "3", "title": "canvas", "releaseYear": "1999",price:12,000 },
-    { "id": "4", "title": "Iphone", "releaseYear": "2010",price:12,000 },
-    { "id": "5", "title": "Nokia", "releaseYear": "2014",price:12,000 }
+    { "id": "1", "title": "Samsung", "releaseYear": "1977" ,"price":"12000"},
+    { "id": "2", "title": "Blackberry", "releaseYear": "1985","price":"12000" },
+    { "id": "3", "title": "canvas", "releaseYear": "1999","price":"12000"},
+    { "id": "4", "title": "Iphone", "releaseYear": "2010","price":"12000"},
+    { "id": "5", "title": "Nokia", "releaseYear": "2014","price":"12000"}
   ]
 }
